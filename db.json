@@ -1,0 +1,89 @@
+[
+  {
+    "cover": "https://res.cloudinary.com/dcvvwskjo/image/upload/v1683047091/cordemy/english-british-england-language-education-concept_zmqz8m.jpg",
+    "title": "Spiking English Mastery Course",
+    "instructor": "Professor Jane Doe",
+    "duration": "6 weeks",
+    "rating": 4.8,
+    "description": "This course is designed for non-native English speakers who want to take their English skills to the next level. You'll learn advanced grammar and vocabulary, as well as strategies for improving your speaking, writing, and listening skills. Through interactive exercises and engaging lectures, you'll develop fluency and confidence in English.",
+    "price": 199.99,
+    "students": 5000
+  },
+
+  {
+    "cover": "https://res.cloudinary.com/dcvvwskjo/image/upload/v1683047516/cordemy/closeup-shot-woman-working-studying-from-home-with-red-coffee-cup-nearby_yiv2rj.jpg",
+    "title": "Mastering Handwriting Course",
+    "instructor": "Dr. John Smith",
+    "duration": "8 weeks",
+    "rating": 4.5,
+    "description": "This course is designed to help you improve your handwriting and develop a unique and personal writing style. You'll learn various writing techniques, including cursive, block letters, and calligraphy, and practice exercises to improve your penmanship. Through individualized feedback from the instructor and engaging assignments, you'll gain the confidence and skills to create beautiful, legible handwriting.",
+    "price": 149.99,
+    "students": 2500
+  },
+
+  {
+    "cover": "https://res.cloudinary.com/dcvvwskjo/image/upload/v1683090536/cordemy/team-social-media-networking-looking-digital-tablet-office_fntxzp.jpg",
+    "title": "Social Media Marketing Mastery Course",
+    "instructor": "Ms. Sarah Johnson",
+    "duration": "10 weeks",
+    "rating": 4.7,
+    "description": "This course is designed for marketers and business owners who want to learn how to leverage social media platforms to grow their brand and increase their customer base. You'll learn social media strategies and best practices for Facebook, Instagram, Twitter, LinkedIn, and more. Through case studies and practical exercises, you'll develop the skills to create effective social media campaigns and measure their success.",
+    "price": 299.99,
+    "students": 10000
+  },
+
+  {
+    "cover": "https://res.cloudinary.com/dcvvwskjo/image/upload/v1683090621/cordemy/pexels-pixabay-270637_ksv5gt.jpg                                 '",
+    "title": "SEO Mastery Course",
+    "instructor": "Mr. John Doe",
+    "duration": "12 weeks",
+    "rating": 4.9,
+    "description": "This course is designed for marketers, website owners, and anyone interested in learning how to improve their search engine rankings and drive more traffic to their website. You'll learn the fundamentals of SEO, keyword research, on-page optimization, link building, and more. Through practical assignments and case studies, you'll gain the skills to develop effective SEO strategies and measure their success.",
+    "price": 349.99,
+    "students": 5000
+  },
+
+  {
+    "cover": "https://res.cloudinary.com/dcvvwskjo/image/upload/v1683091309/cordemy/creativity-creative-ideas-imagination-inspiration-design-concept_edpnea.jpg",
+    "title": "Creative Writing Workshop: Develop Your Writing Skills",
+    "instructor": "Ms. Samantha Lee",
+    "duration": "8 weeks",
+    "rating": 4.8,
+    "description": "This course is designed for aspiring writers who want to develop their skills in creative writing. You'll learn how to write fiction, non-fiction, poetry, and screenplays. Through a series of writing exercises and feedback from peers and the instructor, you'll develop your own unique writing style and voice. The course will also cover editing, revision, and the publishing process.",
+    "price": 249.99,
+    "students": 3000
+  },
+
+  {
+    "cover": "https://res.cloudinary.com/dcvvwskjo/image/upload/v1683091403/cordemy/finance-investment-banking-cost-concept_qawwml.jpg",
+    "title": "Personal Finance and Budgeting",
+    "instructor": "Mr. James Smith",
+    "duration": "10 weeks",
+    "rating": 4.7,
+    "description": "This course is designed to teach you how to manage your personal finances and create a budget that works for you. You'll learn about saving, investing, debt management, credit scores, and other financial topics. The course will also cover the importance of setting financial goals and how to create a plan to achieve them. By the end of the course, you'll have the knowledge and skills to take control of your finances and achieve financial freedom.",
+    "price": 199.99,
+    "students": 5000
+  },
+
+  {
+    "cover": "https://res.cloudinary.com/dcvvwskjo/image/upload/v1683091807/cordemy/office-scene-with-laptop-top-view_mxbctg.jpg",
+    "title": "Advanced Excel for Business Analytics",
+    "instructor": "Dr. Jane Doe",
+    "duration": "6 weeks",
+    "rating": 4.9,
+    "description": "This course is designed for business professionals who want to learn advanced Excel techniques for data analysis and business analytics. You'll learn how to use Excel's powerful features and functions to analyze data, create dashboards and reports, and make data-driven decisions. The course will cover advanced topics such as PivotTables, Power Query, Power Pivot, and macros. By the end of the course, you'll have the skills to become an expert in Excel for business analytics.",
+    "price": 299.99,
+    "students": 2500
+  },
+
+  {
+    "cover": "https://res.cloudinary.com/dcvvwskjo/image/upload/v1683092266/cordemy/camera-photographic-with-smartphone-devices-generative-ai_usvcus.jpg",
+    "title": "Digital Photography",
+    "instructor": "Ms. Laura Lee",
+    "duration": "8 weeks",
+    "rating": 4.8,
+    "description": "This course is designed to teach you the fundamentals of digital photography, including composition, lighting, exposure, and post-processing. You'll learn how to use a digital camera to take high-quality photos, and how to use software like Adobe Photoshop and Lightroom to edit and enhance your images. The course will also cover different genres of photography, including landscape, portrait, and wildlife photography. By the end of the course, you'll have the skills and knowledge to take stunning digital photos and unleash your creative potential.",
+    "price": 249.99,
+    "students": 4000
+  }
+]
